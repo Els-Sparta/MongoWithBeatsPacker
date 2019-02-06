@@ -1,0 +1,11 @@
+DEPENDENCIES
+  beats
+    git: git@github.com:RCollettSG/BeatsCookbook.git
+    revision: 338b05bafc766c9206dd48b2bb5e4ffcbe85e24c
+  mongo
+    git: git@github.com:RCollettSG/ChefMongoCookbook.git
+    revision: 75f30f08f2e8ef02af0691e75ab7a8bf2655fc9c
+
+GRAPH
+  beats (0.1.0)
+  mongo (0.1.0)
