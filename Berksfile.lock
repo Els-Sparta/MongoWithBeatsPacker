@@ -1,10 +1,10 @@
 DEPENDENCIES
   beats
-    git: git@github.com:RCollettSG/BeatsCookbook.git
-    revision: 338b05bafc766c9206dd48b2bb5e4ffcbe85e24c
+    git: git@github.com:Els-Sparta/BeatsCookbook.git
+    revision: b4e32fb9dcc612f917b5108a13f324e36a4f5eed
   mongo
-    git: git@github.com:RCollettSG/ChefMongoCookbook.git
-    revision: 75f30f08f2e8ef02af0691e75ab7a8bf2655fc9c
+    git: git@github.com:Els-Sparta/Mongo-cookbook.git
+    revision: 09e3c80bbf059ae1745407a45334a6dc1f8a5ab1
 
 GRAPH
   beats (0.1.0)
